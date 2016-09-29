@@ -13,4 +13,4 @@ iOS BLE开发调用的是CoreBluetooth系统原生库，基本用到的类有：
 >CBDescriptor //特性的描述符
 
 他们之间的关系如图:
-![alt text](放这个位置 "Title")
+ ![常用类别结构图](https://raw.githubusercontent.com/Jupengpeng/ImagesResourse/master/CoreBluetoothStructure.png)
